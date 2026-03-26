@@ -8,3 +8,5 @@ create for Altium_New_Repo_Test
 ![IoT](https://img.shields.io/badge/IoT-ESP32-green)
 ![Protocol](https://img.shields.io/badge/MQTT-active-orange)
 ![Status](https://img.shields.io/badge/status-developing-yellow)
+
+![version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/KULLANICI/REPO/main/version.json&query=$.version&label=version)
